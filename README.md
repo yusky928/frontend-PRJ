@@ -7,7 +7,7 @@
 
 
 
-링크2: http://yusky928.dothome.co.kr/frontend-PRJ.html
+링크2: http://yusky928.dothome.co.kr/FrontendPRJv1/frontend-PRJ.html
 
 
 
